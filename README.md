@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANMOL-design
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on a new Website dedicated to Students
+- 🌱 I’m Full Stack Developer
+- 💞️ I’m looking to collaborate on a new Website dedicated to Farmers
 
 <!---
 ANMOL-design/ANMOL-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
